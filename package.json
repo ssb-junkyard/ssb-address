@@ -1,0 +1,19 @@
+{
+  "name": "ssb-address",
+  "version": "1.0.0",
+  "description": "standard address-string parser for secure scuttlebutt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssbc/ssb-address.git"
+  },
+  "author": "Paul Frazee <pfrazee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssbc/ssb-address/issues"
+  },
+  "homepage": "https://github.com/ssbc/ssb-address"
+}
