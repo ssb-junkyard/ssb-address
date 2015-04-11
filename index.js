@@ -1,6 +1,6 @@
 
 var DEFAULT_PROTOCOL = 'http:'
-var DEFAULT_PORT = 2000
+var DEFAULT_PORT = 8008
 
 module.exports = function (addr) {
   addr = addr || {}
